@@ -517,7 +517,7 @@
         <mxCell id="172" style="endArrow=none;strokeWidth=1" parent="1" source="83" target="87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="myaiAII9fnVcLxH4yWIo-184" value="" style="endArrow=none;strokeWidth=3" edge="1" parent="1" source="55" target="40">
+        <mxCell id="myaiAII9fnVcLxH4yWIo-184" value="" style="endArrow=none;strokeWidth=3" parent="1" source="55" target="40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1546" y="620" as="sourcePoint" />
             <mxPoint x="1779" y="790" as="targetPoint" />
@@ -526,7 +526,7 @@
         <mxCell id="40" value="Budget_Tab" style="rounded=1;absoluteArcSize=1;arcSize=7;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1440" y="622" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="myaiAII9fnVcLxH4yWIo-186" value="" style="endArrow=none;strokeWidth=3" edge="1" parent="1" source="40" target="45">
+        <mxCell id="myaiAII9fnVcLxH4yWIo-186" value="" style="endArrow=none;strokeWidth=3" parent="1" source="40" target="45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1659" y="692" as="sourcePoint" />
             <mxPoint x="1781" y="790" as="targetPoint" />
